@@ -1,15 +1,20 @@
-*Calculator Project Readme*
+Calculator Project
 This project is a simple calculator implemented using HTML, CSS, and JavaScript. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-##Getting Started
+Table of Contents
+Getting Started
+Usage
+Contributing
+License
+Getting Started
 To use this calculator, simply clone or download the repository to your local machine. Then, open the index.html file in your browser of choice.
 
 Alternatively, you can access the live version of the calculator on Github Pages here.
 
-##Usage
+Usage
 To perform an operation on the calculator, simply click the corresponding button on the calculator interface. You can use the numeric buttons to input numbers, and the arithmetic buttons to perform operations.
 
-##The calculator supports the following operations:
+The calculator supports the following operations:
 
 Addition: represented by the "+" button
 Subtraction: represented by the "-" button
@@ -18,7 +23,8 @@ Division: represented by the "/" button
 Clear: represented by the "C" button
 To clear the calculator, simply click the "C" button.
 
+Contributing
+If you would like to contribute to this project, feel free to submit a pull request. Before submitting a pull request, please make sure that your changes pass the existing tests and that you have added tests for any new functionality.
 
-
-
-
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
