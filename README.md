@@ -1,4 +1,4 @@
-#Calculator Project Readme
+*Calculator Project Readme*
 This project is a simple calculator implemented using HTML, CSS, and JavaScript. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ##Getting Started
